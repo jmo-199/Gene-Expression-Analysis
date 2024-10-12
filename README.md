@@ -24,7 +24,6 @@ This repository is designed to perform an exploratory data analysis (EDA) on gen
 - `pandas`: Data manipulation and analysis.
 - `numpy`: Numerical computations and array manipulation
 - `matplotlib`, `seaborn`: For visualizations such as heatmaps, bar charts, and histograms.
-- `scipy`: For clustering in visualizations.
 
 ### Execution:
 
